@@ -1,7 +1,7 @@
 # Clase 14 · Trabajo Final Integrador: consignas, etapas y fechas
 
 > **Trabajo Final Integrador · presentación de consignas** · Claudio Righetti y Diego Castro · jueves 21-may-2026 (clase híbrida)
-> **Fuentes:** transcripción de la clase · láminas `Trabajo Final Integrador 2026 B.pdf` · documento de consignas `consignas_trabajo_final_2026.docx` (con los links a las planillas de programación y de temas de interés)
+> **Fuentes:** transcripción `DIA_Clase_14.vtt` · láminas `Trabajo Final Integrador 2026 B.pdf` · documento de consignas `consignas_trabajo_final_2026.docx` (con los links a las planillas de programación y de temas de interés)
 
 ## En pocas palabras
 

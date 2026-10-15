@@ -1,7 +1,7 @@
 # Clase 09 · Del combinador lineal al perceptrón multicapa
 
 > **Módulo 2 · Deep Learning y Aplicaciones Avanzadas** · Sebastián González · martes 05-may-2026
-> **Fuentes:** transcripción de la clase · láminas `Intro_DL_clase1_SG_v2.pdf` (carpeta de la Clase 07, primera mitad) y `MLP_entrenamiento_clase3_SG.pdf` (segunda mitad, hasta Keras) · notebooks `Perceptron_Drogas`, `batch_sgd` y `Perceptron_Sigmoide_AND_MSE_live_v2` (carpeta de la Clase 07)
+> **Fuentes:** transcripción `DIA_Clase_09.vtt` · láminas `Intro_DL_clase1_SG_v2.pdf` (carpeta de la Clase 07, primera mitad) y `MLP_entrenamiento_clase3_SG.pdf` (segunda mitad, hasta Keras) · notebooks `Perceptron_Drogas`, `batch_sgd` y `Perceptron_Sigmoide_AND_MSE_live_v2` (carpeta de la Clase 07)
 
 ## En pocas palabras
 

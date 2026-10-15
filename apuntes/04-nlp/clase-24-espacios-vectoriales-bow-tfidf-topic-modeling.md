@@ -1,7 +1,7 @@
 # Clase 24 · Espacios vectoriales: BoW, TF-IDF y modelado (clasificación y topic modeling)
 
 > **Módulo 4 · Procesamiento de Lenguaje Natural** · Horacio Arrigo · jueves 25-jun-2026
-> **Fuentes:** transcripción de la clase (segunda clase del curso de NLP) · láminas `01_NLP_Clase_02_Presentacion.pdf` · notebook `01_NLP_Clase_02_Teoria_Practica.ipynb` (reviews de hoteles)
+> **Fuentes:** transcripción `DIA_Clase_24.vtt` (segunda clase del curso de NLP) · láminas `01_NLP_Clase_02_Presentacion.pdf` · notebook `01_NLP_Clase_02_Teoria_Practica.ipynb` (reviews de hoteles)
 
 ## En pocas palabras
 

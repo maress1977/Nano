@@ -1,7 +1,7 @@
 # Clase 12 · Imágenes con redes convolucionales y transfer learning
 
 > **Módulo 2 · Deep Learning y Aplicaciones Avanzadas** · Daniel Gattari · jueves 14-may-2026
-> **Fuentes:** transcripción de la clase · láminas `Clase_imagenes.pdf` (incluye las láminas de "Clase 4" de imágenes y "Clase 6" de transfer learning del cronograma original) · notebooks `MNIST Dense`, `MNIST Conv`, `CNN Perros y Gatos - completo` y `CNN Perros y Gatos - transfer`
+> **Fuentes:** transcripción `DIA_Clase_12.vtt` · láminas `Clase_imagenes.pdf` (incluye las láminas de "Clase 4" de imágenes y "Clase 6" de transfer learning del cronograma original) · notebooks `MNIST Dense`, `MNIST Conv`, `CNN Perros y Gatos - completo` y `CNN Perros y Gatos - transfer`
 
 ## En pocas palabras
 

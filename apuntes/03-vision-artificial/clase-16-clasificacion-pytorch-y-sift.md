@@ -1,7 +1,7 @@
 # Clase 16 · Clasificación con redes en PyTorch y puntos clave (SIFT)
 
 > **Módulo 3 · Visión Artificial** · Martín Masci · jueves 28-may-2026
-> **Fuentes:** transcripción de la clase · láminas `2026_may_jun_Computer_Vision_DipAI_Clase_2.pdf` ("Clasificación", basadas en learnpytorch.io) · notebook `Pytorch_classification.ipynb` (mencionado en las láminas y mostrado en clase) · paper de Lowe (2004), *Distinctive Image Features from Scale-Invariant Keypoints*, solo en lo comentado en clase
+> **Fuentes:** transcripción `DIA_Clase_16.vtt` · láminas `2026_may_jun_Computer_Vision_DipAI_Clase_2.pdf` ("Clasificación", basadas en learnpytorch.io) · notebook `Pytorch_classification.ipynb` (mencionado en las láminas y mostrado en clase) · paper de Lowe (2004), *Distinctive Image Features from Scale-Invariant Keypoints*, solo en lo comentado en clase
 
 ## En pocas palabras
 

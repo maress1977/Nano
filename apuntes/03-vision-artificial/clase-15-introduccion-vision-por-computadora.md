@@ -1,7 +1,7 @@
 # Clase 15 · Introducción a la visión por computadora
 
 > **Módulo 3 · Visión Artificial** · Martín Masci · martes 26-may-2026
-> **Fuentes:** transcripción de la clase · láminas `2026_may_jun_Computer_Vision_DipAI_Clase_1.pdf` ("Introducción y repaso amplio")
+> **Fuentes:** transcripción `DIA_Clase_15.vtt` · láminas `2026_may_jun_Computer_Vision_DipAI_Clase_1.pdf` ("Introducción y repaso amplio")
 
 ## En pocas palabras
 

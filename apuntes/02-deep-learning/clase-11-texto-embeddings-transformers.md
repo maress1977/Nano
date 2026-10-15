@@ -1,7 +1,7 @@
 # Clase 11 · Procesamiento de texto: de Bag of Words a Transformers y generación
 
 > **Módulo 2 · Deep Learning y Aplicaciones Avanzadas** · Sebastián González · martes 12-may-2026
-> **Fuentes:** transcripción de la clase · láminas `deep_learning_austral_clase_5.pdf` (clase 5 del módulo) · notebooks `5.1-Preprocesamiento`, `5.2-Bag of Words`, `5.3-Representacion Secuencial`, `5.4-Transformers` (y su versión comentada) y `5.5-Mini GPT`
+> **Fuentes:** transcripción `DIA_Clase_11.vtt` · láminas `deep_learning_austral_clase_5.pdf` (clase 5 del módulo) · notebooks `5.1-Preprocesamiento`, `5.2-Bag of Words`, `5.3-Representacion Secuencial`, `5.4-Transformers` (y su versión comentada) y `5.5-Mini GPT`
 
 ## En pocas palabras
 

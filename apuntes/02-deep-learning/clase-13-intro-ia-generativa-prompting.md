@@ -1,7 +1,7 @@
 # Clase 13 · Introducción a la IA generativa: herramientas, riesgos y prompting
 
 > **Módulo 2 · Intro a IA Generativa (caja de herramientas)** · Horacio Arrigo · martes 19-may-2026
-> **Fuentes:** transcripción de la clase (no hay láminas ni notebook en la carpeta; la presentación, armada originalmente por Diego Adrián Castro y actualizada por el profesor, solo se conoce por lo que se dijo en clase)
+> **Fuentes:** transcripción `DIA_Clase_13.vtt` (no hay láminas ni notebook en la carpeta; la presentación, armada originalmente por Diego Adrián Castro y actualizada por el profesor, solo se conoce por lo que se dijo en clase)
 
 ## En pocas palabras
 

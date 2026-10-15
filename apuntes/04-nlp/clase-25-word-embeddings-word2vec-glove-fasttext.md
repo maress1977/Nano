@@ -1,7 +1,7 @@
 # Clase 25 · Word embeddings: Word2Vec, GloVe y FastText
 
 > **Módulo 4 · Procesamiento de Lenguaje Natural** · Horacio Arrigo · martes 30-jun-2026
-> **Fuentes:** transcripción de la clase · láminas `NLP_Clase_03_Presentacion.pdf` · notebooks `01_NLP_Clase_03_Teoria_Practica.ipynb` y `02_NLP_Clase_03_TP01_Consigna.ipynb` · demo HTML `ejemplo_entrenamiento_word2vec.html` (Skip-gram en 3D)
+> **Fuentes:** transcripción `DIA_Clase_25.vtt` · láminas `NLP_Clase_03_Presentacion.pdf` · notebooks `01_NLP_Clase_03_Teoria_Practica.ipynb` y `02_NLP_Clase_03_TP01_Consigna.ipynb` · demo HTML `ejemplo_entrenamiento_word2vec.html` (Skip-gram en 3D)
 
 ## En pocas palabras
 

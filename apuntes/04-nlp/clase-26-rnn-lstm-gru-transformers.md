@@ -1,7 +1,7 @@
 # Clase 26 · Redes recurrentes (RNN, LSTM, GRU) y Transformers
 
 > **Módulo 4 · Procesamiento de Lenguaje Natural** · Horacio Arrigo · jueves 02-jul-2026
-> **Fuentes:** transcripción de la clase · láminas `01_NLP_Clase_04_Presentacion.pdf` · demo HTML `rnn_playground.html` (RNN de juguete) · demo web *Transformer Explainer* (poloclub.github.io/transformer-explainer)
+> **Fuentes:** transcripción `DIA_Clase_26.vtt` · láminas `01_NLP_Clase_04_Presentacion.pdf` · demo HTML `rnn_playground.html` (RNN de juguete) · demo web *Transformer Explainer* (poloclub.github.io/transformer-explainer)
 
 ## En pocas palabras
 

@@ -1,7 +1,7 @@
 # Clase 22 · Tópicos avanzados: U-Net, GAN y Vision Transformers
 
 > **Módulo 3 · Visión Artificial** · Martín Masci · jueves 18-jun-2026
-> **Fuentes:** transcripción de la clase 22 · láminas `UNet_GAN - Teoría.pdf` y `CV03_VisualTransformers.pptx` (Domingo Mery, PUC Chile) · notebooks de Colab mostrados en clase (GAN y U-Net en PyTorch, ViT con Hugging Face)
+> **Fuentes:** transcripción `DIA_Clase_22.vtt` · láminas `UNet_GAN - Teoría.pdf` y `CV03_VisualTransformers.pptx` (Domingo Mery, PUC Chile) · notebooks de Colab mostrados en clase (GAN y U-Net en PyTorch, ViT con Hugging Face)
 
 ## En pocas palabras
 

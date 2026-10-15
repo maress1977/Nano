@@ -1,7 +1,7 @@
 # Clase 10 · Entrenar un MLP: backpropagation a mano, Keras, regularización y elección de hiperparámetros
 
 > **Módulo 2 · Deep Learning y Aplicaciones Avanzadas** · Sebastián González · jueves 07-may-2026
-> **Fuentes:** transcripción de la clase · láminas `MLP_entrenamiento_clase3_SG.pdf` (Clase 3 del módulo) · `Introduccion_Dataset_Autos.pdf` · notebooks `Ejercicio_Autos_Clasificacion.ipynb` y `Ejercicio_Autos_Regresion.ipynb` (notebooks de Iris mostrados en pantalla, no incluidos en la carpeta)
+> **Fuentes:** transcripción `DIA_Clase_10.vtt` · láminas `MLP_entrenamiento_clase3_SG.pdf` (Clase 3 del módulo) · `Introduccion_Dataset_Autos.pdf` · notebooks `Ejercicio_Autos_Clasificacion.ipynb` y `Ejercicio_Autos_Regresion.ipynb` (notebooks de Iris mostrados en pantalla, no incluidos en la carpeta)
 
 ## En pocas palabras
 
